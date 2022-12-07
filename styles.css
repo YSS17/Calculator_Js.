@@ -1,0 +1,15 @@
+body {
+  width: 700px;
+  margin: 4% auto;
+}
+
+.calculator {
+  padding: 20px;
+}
+
+.operators div{
+  display: inline-block;
+  background-color: lightcoral;
+  text-align: center;
+  width: 80px;
+}
